@@ -69,7 +69,7 @@ Dile tu contexto y Claude Code construye el sistema entero:
 Clona el repo dentro de tu carpeta de skills de Claude Code:
 
 ```bash
-git clone https://github.com/jordicabelloo/setting-agent \
+git clone https://github.com/pryxis-ai/setting-agent \
   ~/.claude/skills/setting-agent
 ```
 
